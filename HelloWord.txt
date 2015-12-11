@@ -1,4 +1,3 @@
 print("Привет мир!")
 print ("Good!")
 Super Good!
-Hello Every body!
